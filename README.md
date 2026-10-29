@@ -1,83 +1,85 @@
 # Hi 👋 I’m Nitin Yadav
 
-🎓 Master’s student in **Data Science for Economics & Health**  
-🏫 University of Milan, Italy  
-
-💻 Software Development | 📊 Data Analysis | 🚀 Real-world Projects
+🎓 **M.Sc. Student in Data Science for Economics & Health** | University of Milan, Italy  
+💻 **Data Science | Machine Learning | Software Engineering**
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Data Science master’s student with a strong foundation in **software development and data-driven problem solving**.  
-I enjoy building **practical applications** that combine logic, data, and clean user experiences.
+Data Science Master’s candidate at the University of Milan with a strong background in Computer Applications (B.C.A.) and quantitative analysis. Passionate about building end-to-end machine learning pipelines, predictive models, and cloud-deployed applications that convert raw, unstructured data into actionable insights.
 
-I have hands-on experience with:
-- Web applications used by **100k+ daily users**
-- Performance optimization & real-time systems
-- Python-based data projects and full-stack apps
-
-🔎 Currently **seeking internships / working-student roles** in:
-- Data Science
-- Software Development
-- Analytics / Technical roles
+- 🔬 Currently focusing on **Machine Learning, Feature Engineering, and MLOps**.
+- ☁️ Experienced in deploying containerized ML applications on **Google Cloud Platform (GCP)**.
+- 🔎 Open to **Data Science, Machine Learning, and Data Engineering** internships / working-student roles in Italy and across Europe.
 
 ---
 
 ## 🛠 Tech Stack
 
 **Languages:**  
-Python, Java, JavaScript  
+`Python` `R` `SQL` `C++`
 
-**Web & Backend:**  
-React.js, Node.js, Express.js, HTML, CSS  
+**Machine Learning & Data Science:**  
+`Pandas` `NumPy` `Scikit-Learn` `Statsmodels` `Matplotlib` `Feature Engineering` `EDA`
 
-**Databases:**  
-PostgreSQL, MongoDB  
-
-**Data & Tools:**  
-SQL, pandas, numpy, Excel, DBeaver  
-
-**Version Control:**  
-Git, GitHub  
+**Cloud, Databases & Tools:**  
+`Google Cloud Platform (GCP Cloud Run)` `Docker` `PostgreSQL` `MongoDB` `DBeaver` `Git/GitHub`
 
 ---
 
 ## 📌 Featured Projects
 
-### 🎌 Mood-Based Anime Recommender System
-**Python | Streamlit | Data Analysis**
+### 🔥 BurnoutSense — ML-Based Burnout Risk Prediction & Cloud Pipeline
+**Python | Scikit-Learn | Docker | GCP Cloud Run**
 
-- Recommends anime based on user mood using genre weighting logic  
-- Interactive UI built with Streamlit  
-- Uses Kaggle dataset + Jikan API for metadata and images  
+- Built an end-to-end machine learning pipeline to predict burnout risk from behavioral and lifestyle feature vectors.
+- Executed feature engineering, missing value imputation, categorical encoding, and scaling in Pandas.
+- Containerized the environment using **Docker** and deployed on **GCP Cloud Run** with autoscaling and resource limit configurations.
+
+---
+
+### 🎌 MARS – Mood-Based Anime Recommender System
+**Python | Streamlit | Cosine Similarity | Pandas**
+
+- Developed a content-based recommendation engine leveraging **cosine similarity algorithms** to match user mood inputs with metadata.
+- Engineered text vectorization pipelines over Kaggle metadata and Jikan API endpoints for real-time similarity scoring.
+- Architected a modular Python codebase enabling future integration of collaborative filtering and neural embeddings.
 
 🔗 [View Repository](https://github.com/Nitinydv69/mood-anime-recommender-system)
 
-*(More projects coming soon 🚀)*
+---
+
+### 📊 Automated Sales Analytics & Dashboard Pipeline
+**Python | Pandas | NumPy | Matplotlib**
+
+- Engineered an automated ETL and exploratory data analysis (EDA) pipeline processing multi-period sales transaction logs.
+- Calculated key metrics including customer retention, revenue growth rates, and seasonal anomalies.
+- Visualized trend distributions using Matplotlib for dynamic performance reporting.
 
 ---
 
 ## 📈 What I’m Working On Now
 
-- Improving my recommender system with better explanations  
-- Adding a Python data analysis mini-project  
-- Strengthening SQL and statistics for real-world datasets  
+- 🤖 Implementing adaptive learning rate algorithms (**AdaHedge** vs. fixed-rate **Hedge**) in Python for online learning analysis.
+- 🧠 Deepening expertise in **Statistical Learning**, **Time Series Forecasting**, and advanced econometrics.
+- ☁️ Expanding MLOps practices around model tracking, evaluation metrics, and API serving.
 
 ---
 
-## 🌍 Languages
+## 🌍 Spoken Languages
 
-- English — Fluent  
-- Italian — Conversational  
-- Japanese — Basic  
-- Hindi — Native  
+- **English** — Fluent
+- **Italian** — Conversational
+- **Hindi** — Native
+- **Japanese** — Basic
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let’s Connect!
 
-- 📧 Email: nitinydv1806@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/nitin-yadav-746464218  
+- 📧 **Email:** [nitinydv1806@gmail.com](mailto:nitinydv1806@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/nitin-yadav-746464218](https://www.linkedin.com/in/nitin-yadav-746464218)
+- 🐙 **GitHub:** [github.com/nitinydv69](https://github.com/nitinydv69)
 
-⭐ Feel free to explore my repositories and connect!
+⭐ *Feel free to explore my repositories and reach out for collaborations!*
